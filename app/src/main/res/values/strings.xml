@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Click</string>
+    <string name="app_name">ClickMechanic</string>
     <string name="search">Explore</string>
     <string name="list">List</string>
     <string name="about">About ClickMechanic</string>
@@ -14,4 +14,7 @@
     <string name="mentor_des">Assistant Professor (Department of Cyber Platform)</string>
     <string name="developer_name">Aayush Shrivastava </string>
     <string name="developer_des">B.Tech CSE in Cyber Security and Forensics (2015-19) </string>
+    <string name="title_activity_repair_shops">Map</string>
+    <string name="title_activity_medicine_shop">Map</string>
+    <string name="title_activity_grocery_shop">Map</string>
 </resources>
