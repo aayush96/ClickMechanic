@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "964920309985",
+    "firebase_url": "https://clickmechanic-1da59.firebaseio.com",
+    "project_id": "clickmechanic-1da59",
+    "storage_bucket": "clickmechanic-1da59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964920309985:android:9e6cb9ae10593059",
+        "android_client_info": {
+          "package_name": "com.example.aayush.click"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964920309985-jd2vmo5inn6aihsd975jl2o2ctr977qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl7IjZVcKR6O0dVci8eo1M5Uk7LZAHbiQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
